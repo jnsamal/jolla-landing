@@ -1,5 +1,7 @@
 # Jolla Phone (Sep-II 2026) — Landing Page
 
+<img width="500" height="500" alt="jolla_phone_hero_double-removebg-preview" src="https://github.com/user-attachments/assets/a3e633dd-e951-4550-96d7-656f0bc2071c" />
+
 A minimal, Nordic-styled Next.js 15 landing page for the upcoming Jolla
 Phone, built with TypeScript and Tailwind CSS. Content is sourced from the
 official product page: https://commerce.jolla.com/products/jolla-phone-sep-ii-2026
